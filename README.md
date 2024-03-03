@@ -58,6 +58,7 @@ new_img = floyd(img, threshold=128)
 plt.imshow(new_img, cmap='gray')
 plt.title('Processed Image')
 plt.show()
+```
 
 ## Future Modifications
 This repository is a work in progress, and more modifications and additional algorithms will be added in the future. 
